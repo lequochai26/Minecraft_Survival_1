@@ -1,0 +1,32 @@
+----- [ NHÀ ] -----
+Nhà ở vùng núi tuyết 1: -604 150 799
+Nhà ở vùng đồng bằng băng giá 1 (nhà chính): 1169 93 -409
+
+----- [ ĐỒNG BẰNG ] -----
+Khu vực đồng bằng 1: -236 111 249
+Note: Khu vực thích hợp để xây dựng
+
+Khu vực đồng bằng 2: 261 86 -700
+Note: Khu bực thích hợp để xây dựng, gần nhà chính ở vùng đồng bằng băng giá.
+
+----- [ HANG ĐỘNG ] -----
+Hang động lớn 1: -297 91 66
+Note: Hang này có vẻ có nhiều tài nguyên
+
+Hang động lớn 2: 473 97 -269
+Note: Hang này có vẻ có nhiều tài nguyên
+
+----- [ ĐỒNG BẰNG BĂNG GIÁ ] -----
+Đồng bằng băng giá 1: 272 88 -271
+Note: Khu vực này thích hợp để xây dựng
+
+----- [ DÂN LÀNG VÙNG ĐỒNG BẰNG BĂNG GIÁ ] -----
+Dân làng đồng bằng băng giá 1: 691 98 -796
+Note: Gần nhà chính ở vùng đồng bằng băng giá.
+
+----- [ SKELETON SPAWNER ] -----
+Skeleton spawner 1: 1125 -16 -337
+Note: Gần nhà chính ở vùng đồng bằng băng giá, lối vào: 1129 96 -332
+
+----- [ ZOMBIE SPAWNER ] -----
+Zombie spawner 1: 1165 -26 -334
