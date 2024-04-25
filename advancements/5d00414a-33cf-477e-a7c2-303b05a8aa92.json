@@ -2152,5 +2152,17 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-04-26 03:14:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-04-26 03:30:41 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3837
 }
